@@ -48,3 +48,6 @@ header {
     margin-bottom: 5px;
     text-decoration: underline;
 }
+ul {
+    columns: 4;
+}
